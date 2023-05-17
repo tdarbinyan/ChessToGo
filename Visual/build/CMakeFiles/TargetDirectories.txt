@@ -1,0 +1,3 @@
+/home/telemak/GoChess/Visual/build/CMakeFiles/Project.dir
+/home/telemak/GoChess/Visual/build/CMakeFiles/edit_cache.dir
+/home/telemak/GoChess/Visual/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Project.dir/board.cpp.o CMakeFiles/Project.dir/chessGame.cpp.o CMakeFiles/Project.dir/main.cpp.o CMakeFiles/Project.dir/piece.cpp.o CMakeFiles/Project.dir/pieceTextures.cpp.o -o Project  -lsfml-graphics -lsfml-window -lsfml-system 
